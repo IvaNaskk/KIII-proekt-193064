@@ -1,0 +1,15 @@
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/repository/UserRepository.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/June2022Group1Application.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/model/exceptions/InvalidUserIdException.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/model/exceptions/InvalidVirtualMachineIdException.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/repository/VirtualServerRepository.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/config/SecurityConfig.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/config/DataInitializer.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/model/OSType.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/service/UserService.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/service/VirtualServerService.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/service/impl/UserServiceImpl.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/model/VirtualServer.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/web/VirtualServerController.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/service/impl/VirtualServerServiceImpl.java
+/Users/ivanaskovska/Desktop/proekt-kiii/june-2022-193064/src/main/java/mk/ukim/finki/wp/june2022/g1/model/User.java

@@ -1,0 +1,14 @@
+mk/ukim/finki/wp/june2022/g1/selenium/AddOrEditForm.class
+mk/ukim/finki/wp/exam/util/LoadSolution.class
+mk/ukim/finki/wp/exam/util/FailedSubmissionException.class
+mk/ukim/finki/wp/exam/util/SubmissionHelper.class
+mk/ukim/finki/wp/exam/util/ExamAssertionException.class
+mk/ukim/finki/wp/june2022/g1/selenium/AbstractPage.class
+mk/ukim/finki/wp/exam/util/ExamAssert.class
+mk/ukim/finki/wp/june2022/g1/selenium/ItemsPage.class
+mk/ukim/finki/wp/exam/util/LoadSolution$1.class
+mk/ukim/finki/wp/june2022/g1/SeleniumScenarioTest$ViewMatcher.class
+mk/ukim/finki/wp/exam/util/CodeExtractor.class
+mk/ukim/finki/wp/exam/util/LoadSolution$2.class
+mk/ukim/finki/wp/june2022/g1/selenium/LoginPage.class
+mk/ukim/finki/wp/june2022/g1/SeleniumScenarioTest.class

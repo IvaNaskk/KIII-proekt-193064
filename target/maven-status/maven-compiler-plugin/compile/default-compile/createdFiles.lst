@@ -1,0 +1,15 @@
+mk/ukim/finki/wp/june2022/g1/service/VirtualServerService.class
+mk/ukim/finki/wp/june2022/g1/repository/VirtualServerRepository.class
+mk/ukim/finki/wp/june2022/g1/web/VirtualServerController.class
+mk/ukim/finki/wp/june2022/g1/config/SecurityConfig.class
+mk/ukim/finki/wp/june2022/g1/service/impl/VirtualServerServiceImpl.class
+mk/ukim/finki/wp/june2022/g1/model/User.class
+mk/ukim/finki/wp/june2022/g1/service/impl/UserServiceImpl.class
+mk/ukim/finki/wp/june2022/g1/model/OSType.class
+mk/ukim/finki/wp/june2022/g1/model/VirtualServer.class
+mk/ukim/finki/wp/june2022/g1/model/exceptions/InvalidUserIdException.class
+mk/ukim/finki/wp/june2022/g1/service/UserService.class
+mk/ukim/finki/wp/june2022/g1/repository/UserRepository.class
+mk/ukim/finki/wp/june2022/g1/config/DataInitializer.class
+mk/ukim/finki/wp/june2022/g1/model/exceptions/InvalidVirtualMachineIdException.class
+mk/ukim/finki/wp/june2022/g1/June2022Group1Application.class
